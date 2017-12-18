@@ -1,9 +1,0 @@
-E:\Samples\net7mma\Sdp\bin\Debug\Media.Sdp.dll
-E:\Samples\net7mma\Sdp\bin\Debug\Media.Sdp.pdb
-E:\Samples\net7mma\Sdp\bin\Debug\Media.Common.dll
-E:\Samples\net7mma\Sdp\bin\Debug\Media.Ntp.dll
-E:\Samples\net7mma\Sdp\bin\Debug\Media.Common.pdb
-E:\Samples\net7mma\Sdp\bin\Debug\Media.Ntp.pdb
-E:\Samples\net7mma\Sdp\obj\Debug\Media.Sdp.csprojResolveAssemblyReference.cache
-E:\Samples\net7mma\Sdp\obj\Debug\Media.Sdp.dll
-E:\Samples\net7mma\Sdp\obj\Debug\Media.Sdp.pdb

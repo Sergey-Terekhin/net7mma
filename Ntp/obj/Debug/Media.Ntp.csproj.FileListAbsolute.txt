@@ -1,6 +1,0 @@
-E:\Samples\net7mma\Ntp\bin\Debug\Media.Ntp.dll
-E:\Samples\net7mma\Ntp\bin\Debug\Media.Ntp.pdb
-E:\Samples\net7mma\Ntp\bin\Debug\Media.Common.dll
-E:\Samples\net7mma\Ntp\bin\Debug\Media.Common.pdb
-E:\Samples\net7mma\Ntp\obj\Debug\Media.Ntp.dll
-E:\Samples\net7mma\Ntp\obj\Debug\Media.Ntp.pdb

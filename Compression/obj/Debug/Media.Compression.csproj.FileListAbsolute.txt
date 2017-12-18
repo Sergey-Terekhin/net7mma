@@ -1,7 +1,0 @@
-E:\Samples\net7mma\Compression\bin\Debug\Media.Compression.dll
-E:\Samples\net7mma\Compression\bin\Debug\Media.Compression.pdb
-E:\Samples\net7mma\Compression\bin\Debug\Media.Common.dll
-E:\Samples\net7mma\Compression\bin\Debug\Media.Common.pdb
-E:\Samples\net7mma\Compression\obj\Debug\Media.Compression.csprojResolveAssemblyReference.cache
-E:\Samples\net7mma\Compression\obj\Debug\Media.Compression.dll
-E:\Samples\net7mma\Compression\obj\Debug\Media.Compression.pdb

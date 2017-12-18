@@ -1,7 +1,0 @@
-E:\Samples\net7mma\Rtmp\bin\Debug\Media.Rtmp.dll
-E:\Samples\net7mma\Rtmp\bin\Debug\Media.Rtmp.pdb
-E:\Samples\net7mma\Rtmp\bin\Debug\Media.Common.dll
-E:\Samples\net7mma\Rtmp\bin\Debug\Media.Common.pdb
-E:\Samples\net7mma\Rtmp\obj\Debug\Media.Rtmp.csprojResolveAssemblyReference.cache
-E:\Samples\net7mma\Rtmp\obj\Debug\Media.Rtmp.dll
-E:\Samples\net7mma\Rtmp\obj\Debug\Media.Rtmp.pdb

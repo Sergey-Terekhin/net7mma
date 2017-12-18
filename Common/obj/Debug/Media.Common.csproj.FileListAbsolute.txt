@@ -1,5 +1,0 @@
-E:\Samples\net7mma\Common\bin\Debug\Media.Common.dll
-E:\Samples\net7mma\Common\bin\Debug\Media.Common.pdb
-E:\Samples\net7mma\Common\obj\Debug\Media.Common.csprojResolveAssemblyReference.cache
-E:\Samples\net7mma\Common\obj\Debug\Media.Common.dll
-E:\Samples\net7mma\Common\obj\Debug\Media.Common.pdb

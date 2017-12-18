@@ -1,5 +1,0 @@
-E:\Samples\net7mma\Codecs\Audio\AC3\bin\Debug\Media.Codecs.Audio.Ac3.dll
-E:\Samples\net7mma\Codecs\Audio\AC3\bin\Debug\Media.Codecs.Audio.Ac3.pdb
-E:\Samples\net7mma\Codecs\Audio\AC3\obj\Debug\Media.Codecs.Audio.Ac3.csprojResolveAssemblyReference.cache
-E:\Samples\net7mma\Codecs\Audio\AC3\obj\Debug\Media.Codecs.Audio.Ac3.dll
-E:\Samples\net7mma\Codecs\Audio\AC3\obj\Debug\Media.Codecs.Audio.Ac3.pdb

@@ -1,7 +1,0 @@
-E:\Samples\net7mma\Concepts\bin\Debug\Media.Concepts.dll
-E:\Samples\net7mma\Concepts\bin\Debug\Media.Concepts.pdb
-E:\Samples\net7mma\Concepts\bin\Debug\Media.Common.dll
-E:\Samples\net7mma\Concepts\bin\Debug\Media.Common.pdb
-E:\Samples\net7mma\Concepts\obj\Debug\Concepts.csprojResolveAssemblyReference.cache
-E:\Samples\net7mma\Concepts\obj\Debug\Media.Concepts.dll
-E:\Samples\net7mma\Concepts\obj\Debug\Media.Concepts.pdb
