@@ -35,3 +35,8 @@ Installers.vs2012.VC.db
 *.psess
 *.vsp
 .idea/*
+*.dll
+
+*.pdb
+
+obj

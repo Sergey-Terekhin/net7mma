@@ -285,13 +285,7 @@ namespace Media.UnitTests
 
         public class MyTestClass
         {
-            string m_Test;
-
-            public string Test
-            {
-                get { return m_Test; }
-                set { m_Test = value; }
-            }
+            public string Test;
         }
 
         public class MyTestClass<T> : MyTestClass
