@@ -1,0 +1,11 @@
+E:\Samples\net7mma\Sip\bin\Debug\Media.Sip.dll
+E:\Samples\net7mma\Sip\bin\Debug\Media.Sip.pdb
+E:\Samples\net7mma\Sip\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Sip\bin\Debug\Media.Http.dll
+E:\Samples\net7mma\Sip\bin\Debug\Media.Cryptography.dll
+E:\Samples\net7mma\Sip\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Sip\bin\Debug\Media.Http.pdb
+E:\Samples\net7mma\Sip\bin\Debug\Media.Cryptography.pdb
+E:\Samples\net7mma\Sip\obj\Debug\Media.Sip.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Sip\obj\Debug\Media.Sip.dll
+E:\Samples\net7mma\Sip\obj\Debug\Media.Sip.pdb

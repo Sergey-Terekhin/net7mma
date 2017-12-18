@@ -1,0 +1,11 @@
+E:\Samples\net7mma\Codecs\Audio\Flac\bin\Debug\Media.Codecs.Audio.Flac.dll
+E:\Samples\net7mma\Codecs\Audio\Flac\bin\Debug\Media.Codecs.Audio.Flac.pdb
+E:\Samples\net7mma\Codecs\Audio\Flac\bin\Debug\Media.Codec.dll
+E:\Samples\net7mma\Codecs\Audio\Flac\bin\Debug\Media.Codecs.Audio.dll
+E:\Samples\net7mma\Codecs\Audio\Flac\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Codecs\Audio\Flac\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Codecs\Audio\Flac\bin\Debug\Media.Codec.pdb
+E:\Samples\net7mma\Codecs\Audio\Flac\bin\Debug\Media.Codecs.Audio.pdb
+E:\Samples\net7mma\Codecs\Audio\Flac\obj\Debug\Media.Codecs.Audio.Flac.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Codecs\Audio\Flac\obj\Debug\Media.Codecs.Audio.Flac.dll
+E:\Samples\net7mma\Codecs\Audio\Flac\obj\Debug\Media.Codecs.Audio.Flac.pdb

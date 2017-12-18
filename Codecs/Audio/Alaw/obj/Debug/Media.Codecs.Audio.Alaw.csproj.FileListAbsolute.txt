@@ -1,0 +1,11 @@
+E:\Samples\net7mma\Codecs\Audio\Alaw\bin\Debug\Media.Codecs.Audio.Alaw.dll
+E:\Samples\net7mma\Codecs\Audio\Alaw\bin\Debug\Media.Codecs.Audio.Alaw.pdb
+E:\Samples\net7mma\Codecs\Audio\Alaw\bin\Debug\Media.Codec.dll
+E:\Samples\net7mma\Codecs\Audio\Alaw\bin\Debug\Media.Codecs.Audio.dll
+E:\Samples\net7mma\Codecs\Audio\Alaw\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Codecs\Audio\Alaw\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Codecs\Audio\Alaw\bin\Debug\Media.Codec.pdb
+E:\Samples\net7mma\Codecs\Audio\Alaw\bin\Debug\Media.Codecs.Audio.pdb
+E:\Samples\net7mma\Codecs\Audio\Alaw\obj\Debug\Media.Codecs.Audio.Alaw.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Codecs\Audio\Alaw\obj\Debug\Media.Codecs.Audio.Alaw.dll
+E:\Samples\net7mma\Codecs\Audio\Alaw\obj\Debug\Media.Codecs.Audio.Alaw.pdb

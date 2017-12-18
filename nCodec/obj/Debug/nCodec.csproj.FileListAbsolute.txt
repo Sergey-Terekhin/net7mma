@@ -1,0 +1,12 @@
+E:\Samples\net7mma\nCodec\bin\Debug\nCodec.dll
+E:\Samples\net7mma\nCodec\bin\Debug\nCodec.pdb
+E:\Samples\net7mma\nCodec\bin\Debug\Media.Codec.dll
+E:\Samples\net7mma\nCodec\bin\Debug\Media.Codecs.Audio.dll
+E:\Samples\net7mma\nCodec\bin\Debug\Media.Codecs.Video.dll
+E:\Samples\net7mma\nCodec\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\nCodec\bin\Debug\Media.Codecs.Audio.pdb
+E:\Samples\net7mma\nCodec\bin\Debug\Media.Codec.pdb
+E:\Samples\net7mma\nCodec\bin\Debug\Media.Codecs.Video.pdb
+E:\Samples\net7mma\nCodec\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\nCodec\obj\Debug\nCodec.dll
+E:\Samples\net7mma\nCodec\obj\Debug\nCodec.pdb

@@ -1,0 +1,13 @@
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Codecs.Audio.Mp3.dll
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Codecs.Audio.Mp3.pdb
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Codec.dll
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Codecs.Audio.dll
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Compression.dll
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Compression.pdb
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Codec.pdb
+E:\Samples\net7mma\Codecs\Audio\Mp3\bin\Debug\Media.Codecs.Audio.pdb
+E:\Samples\net7mma\Codecs\Audio\Mp3\obj\Debug\Media.Codecs.Audio.Mp3.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Codecs\Audio\Mp3\obj\Debug\Media.Codecs.Audio.Mp3.dll
+E:\Samples\net7mma\Codecs\Audio\Mp3\obj\Debug\Media.Codecs.Audio.Mp3.pdb

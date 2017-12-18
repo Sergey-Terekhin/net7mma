@@ -1,0 +1,9 @@
+E:\Samples\net7mma\Http\bin\Debug\Media.Http.dll
+E:\Samples\net7mma\Http\bin\Debug\Media.Http.pdb
+E:\Samples\net7mma\Http\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Http\bin\Debug\Media.Cryptography.dll
+E:\Samples\net7mma\Http\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Http\bin\Debug\Media.Cryptography.pdb
+E:\Samples\net7mma\Http\obj\Debug\Media.Http.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Http\obj\Debug\Media.Http.dll
+E:\Samples\net7mma\Http\obj\Debug\Media.Http.pdb

@@ -1,0 +1,5 @@
+E:\Samples\net7mma\Sockets\bin\Debug\Media.Sockets.dll
+E:\Samples\net7mma\Sockets\bin\Debug\Media.Sockets.pdb
+E:\Samples\net7mma\Sockets\obj\Debug\Media.Sockets.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Sockets\obj\Debug\Media.Sockets.dll
+E:\Samples\net7mma\Sockets\obj\Debug\Media.Sockets.pdb

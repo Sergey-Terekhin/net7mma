@@ -1,0 +1,17 @@
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.RtpTools.dll
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.RtpTools.pdb
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Container.dll
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Ntp.dll
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Rtp.dll
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Sdp.dll
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Cryptography.dll
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Container.pdb
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Ntp.pdb
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Rtp.pdb
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Sdp.pdb
+E:\Samples\net7mma\RtpTools\bin\Debug\Media.Cryptography.pdb
+E:\Samples\net7mma\RtpTools\obj\Debug\Media.RtpTools.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\RtpTools\obj\Debug\Media.RtpTools.dll
+E:\Samples\net7mma\RtpTools\obj\Debug\Media.RtpTools.pdb

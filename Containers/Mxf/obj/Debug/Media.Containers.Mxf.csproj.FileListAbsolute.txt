@@ -1,0 +1,17 @@
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Containers.Mxf.dll
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Containers.Mxf.pdb
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Codec.dll
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Compression.dll
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Container.dll
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Sdp.dll
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Ntp.dll
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Codec.pdb
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Compression.pdb
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Sdp.pdb
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Container.pdb
+E:\Samples\net7mma\Containers\Mxf\bin\Debug\Media.Ntp.pdb
+E:\Samples\net7mma\Containers\Mxf\obj\Debug\Media.Containers.Mxf.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Containers\Mxf\obj\Debug\Media.Containers.Mxf.dll
+E:\Samples\net7mma\Containers\Mxf\obj\Debug\Media.Containers.Mxf.pdb

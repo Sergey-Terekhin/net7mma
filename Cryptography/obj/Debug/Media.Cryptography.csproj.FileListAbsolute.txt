@@ -1,0 +1,7 @@
+E:\Samples\net7mma\Cryptography\bin\Debug\Media.Cryptography.dll
+E:\Samples\net7mma\Cryptography\bin\Debug\Media.Cryptography.pdb
+E:\Samples\net7mma\Cryptography\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Cryptography\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Cryptography\obj\Debug\Media.Cryptography.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Cryptography\obj\Debug\Media.Cryptography.dll
+E:\Samples\net7mma\Cryptography\obj\Debug\Media.Cryptography.pdb

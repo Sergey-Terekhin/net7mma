@@ -1,0 +1,13 @@
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Rtp.dll
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Rtp.pdb
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Cryptography.dll
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Ntp.dll
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Sdp.dll
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Cryptography.pdb
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Ntp.pdb
+E:\Samples\net7mma\Rtp\bin\Debug\Media.Sdp.pdb
+E:\Samples\net7mma\Rtp\obj\Debug\Media.Rtp.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Rtp\obj\Debug\Media.Rtp.dll
+E:\Samples\net7mma\Rtp\obj\Debug\Media.Rtp.pdb

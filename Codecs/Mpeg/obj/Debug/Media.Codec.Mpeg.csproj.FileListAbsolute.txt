@@ -1,0 +1,7 @@
+E:\Samples\net7mma\Codecs\Mpeg\bin\Debug\Media.Codec.Mpeg.dll
+E:\Samples\net7mma\Codecs\Mpeg\bin\Debug\Media.Codec.Mpeg.pdb
+E:\Samples\net7mma\Codecs\Mpeg\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Codecs\Mpeg\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Codecs\Mpeg\obj\Debug\Media.Codec.Mpeg.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Codecs\Mpeg\obj\Debug\Media.Codec.Mpeg.dll
+E:\Samples\net7mma\Codecs\Mpeg\obj\Debug\Media.Codec.Mpeg.pdb

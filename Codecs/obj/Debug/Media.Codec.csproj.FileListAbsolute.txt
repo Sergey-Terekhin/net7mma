@@ -1,0 +1,9 @@
+E:\Samples\net7mma\Codecs\bin\Debug\Media.Codec.dll
+E:\Samples\net7mma\Codecs\bin\Debug\Media.Codec.pdb
+E:\Samples\net7mma\Codecs\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Codecs\bin\Debug\Media.Compression.dll
+E:\Samples\net7mma\Codecs\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Codecs\bin\Debug\Media.Compression.pdb
+E:\Samples\net7mma\Codecs\obj\Debug\Media.Codec.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Codecs\obj\Debug\Media.Codec.dll
+E:\Samples\net7mma\Codecs\obj\Debug\Media.Codec.pdb

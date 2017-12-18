@@ -1,0 +1,15 @@
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Codecs.Video.H264.dll
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Codecs.Video.H264.pdb
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Codec.dll
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Codecs.Image.dll
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Codecs.Video.dll
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Common.dll
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Compression.dll
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Common.pdb
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Compression.pdb
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Codecs.Image.pdb
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Codec.pdb
+E:\Samples\net7mma\Codecs\Video\H264\bin\Debug\Media.Codecs.Video.pdb
+E:\Samples\net7mma\Codecs\Video\H264\obj\Debug\Media.Codecs.Video.H264.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Codecs\Video\H264\obj\Debug\Media.Codecs.Video.H264.dll
+E:\Samples\net7mma\Codecs\Video\H264\obj\Debug\Media.Codecs.Video.H264.pdb

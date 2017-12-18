@@ -1,0 +1,5 @@
+E:\Samples\net7mma\Codecs\Audio\Vorbis\bin\Debug\Media.Codecs.Audio.Vorbis.dll
+E:\Samples\net7mma\Codecs\Audio\Vorbis\bin\Debug\Media.Codecs.Audio.Vorbis.pdb
+E:\Samples\net7mma\Codecs\Audio\Vorbis\obj\Debug\Media.Codecs.Audio.Vorbis.csprojResolveAssemblyReference.cache
+E:\Samples\net7mma\Codecs\Audio\Vorbis\obj\Debug\Media.Codecs.Audio.Vorbis.dll
+E:\Samples\net7mma\Codecs\Audio\Vorbis\obj\Debug\Media.Codecs.Audio.Vorbis.pdb
